@@ -3,7 +3,7 @@
 Install packages:
 
 ```
-npm intall
+npm install
 or 
 yarn
 ```
